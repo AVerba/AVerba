@@ -1,8 +1,14 @@
 ### Hi, I'm Oleksii 👋
 ## I am a beginner Full Stack Developer
   
-📫 How to reach me: <link href="t.me/OleksiiVerbytskyi">Telegram</link>
-
+📫 How to reach me: 
+ 
+ 
+ <a href="https://t.me/OleksiiVerbytskyi" rel="noreferrer noopener">
+  <img align="left" alt="Verbitskyi | Telegram" width="22px" src="https://img.icons8.com/fluency/452/telegram-app.png" />
+</a>
+<br/>
+<br/>
 ### My stack:
 
 <p align="left">
