@@ -4,7 +4,7 @@
 📫 How to reach me: 
  
  
-<a href="https://t.me/OleksiiVerbytskyi" target="_blank">
+<a href="https://t.me/OleksiiVerbytskyi" >
   <img align="left" alt="Verbitskyi | Telegram" width="22px" src="https://img.icons8.com/fluency/452/telegram-app.png" />
 </a>
 <br/>
