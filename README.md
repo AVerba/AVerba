@@ -1,7 +1,7 @@
 ### Hi, I'm Oleksii 👋
 ## I am a beginner Full Stack Developer
   
-📫 How to reach me: <a href="t.me/OleksiiVerbytskyi">Telegram</a>
+📫 How to reach me: <link href="t.me/OleksiiVerbytskyi">Telegram</link>
 
 ### My stack:
 
