@@ -4,12 +4,13 @@
 📫 How to reach me: 
  
  
- <a href="https://t.me/OleksiiVerbytskyi" rel="noreferrer noopener">
+<a href="https://t.me/OleksiiVerbytskyi" rel="noreferrer noopener">
   <img align="left" alt="Verbitskyi | Telegram" width="22px" src="https://img.icons8.com/fluency/452/telegram-app.png" />
 </a>
 <br/>
 <br/>
-## My stack:
+
+### My stack:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
