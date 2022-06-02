@@ -5,7 +5,7 @@
  
  
 <a href="https://t.me/OleksiiVerbytskyi" >
-  <img align="left" alt="Verbitskyi | Telegram" width="22px" src="https://img.icons8.com/fluency/452/telegram-app.png" />
+  <img align="left" alt="Verbitskyi | Telegram" width="40" height="40" src="https://img.icons8.com/fluency/452/telegram-app.png" />
 </a>
 <br/>
 <br/>
