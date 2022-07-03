@@ -14,7 +14,7 @@
 
 <style>
   .list{
-  displau:flex;}
+  display:flex;}
   <style/>
 
 <p align="left">
