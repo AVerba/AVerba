@@ -1,7 +1,7 @@
 ### Hi, I'm Oleksii 👋
 
-Brief information:
-💻 Front-end developer (react.js, Node.js)
+Brief information:<br>
+💻 Front-end developer (react.js, Node.js)<br>
 📫 How to reach me: 
 - 📌 Kyiv, Ukraine
 - 📧 alverba88@gmail.com
