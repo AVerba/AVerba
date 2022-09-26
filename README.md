@@ -5,8 +5,8 @@ Brief information:
 📫 How to reach me: 
 - 📌 Kyiv, Ukraine
 - 📧 alverba88@gmail.com
-- 📞 <a href="https://t.me/OleksiiVerbytskyi" >
-  <img align="left" alt="Verbitskyi | Telegram" width="10" height="40" src="https://img.icons8.com/fluency/452/telegram-app.png" />
+- <a href="https://t.me/OleksiiVerbytskyi" >
+  <img align="left" alt="Verbitskyi | Telegram" width="15" height="15" src="https://img.icons8.com/fluency/452/telegram-app.png" />
 </a>
 
 
