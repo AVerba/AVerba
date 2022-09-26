@@ -6,7 +6,7 @@ Brief information:
 - 📌 Kyiv, Ukraine
 - 📧 alverba88@gmail.com
 - <a href="https://t.me/OleksiiVerbytskyi" >
-  <img align="left" alt="Verbitskyi | Telegram" width="15" height="15" src="https://img.icons8.com/fluency/452/telegram-app.png" />
+  <img align="left" alt="Verbitskyi | Telegram" width="40" height="40" src="https://img.icons8.com/fluency/452/telegram-app.png" />
 </a>
 
 
