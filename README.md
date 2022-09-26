@@ -42,7 +42,7 @@ Brief information:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AVerba&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVerbalayout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVerba&layout=compact)
   
 
 
