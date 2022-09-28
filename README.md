@@ -1,16 +1,15 @@
 ### Hi, I'm Oleksii 👋
+<br>
+💻 Front-end developer (react.js, Node.js)<br><br>
+📫 How to reach me: <br>
+📌 Kyiv, Ukraine<br>
+📧 alverba88@gmail.com<br>
+<a href="https://t.me/OleksiiVerbytskyi" >
+  <img align="left" alt="Verbitskyi | Telegram" width="25" height="25" src="https://img.icons8.com/fluency/452/telegram-app.png" />
+</a><br>
 
-Brief information:<br>
-💻 Front-end developer (react.js, Node.js)<br>
-📫 How to reach me: 
-- 📌 Kyiv, Ukraine
-- 📧 alverba88@gmail.com
-- <a href="https://t.me/OleksiiVerbytskyi" >
-  <img align="left" alt="Verbitskyi | Telegram" width="40" height="40" src="https://img.icons8.com/fluency/452/telegram-app.png" />
-</a>
 
-
-##### Resume .<br>  
+##### Resume :<br>  
 
 
 
